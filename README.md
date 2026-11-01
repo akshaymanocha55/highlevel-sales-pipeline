@@ -11,9 +11,9 @@ npm start
 
 `npm start` installs dependencies and opens http://localhost:5173. Requires **Node 22.12+** (Node 20.19+ runs the app; the tests need 22).
 
-- 🌐 **Live demo:** _add link_ (no install needed; the fake API runs inside the browser)
+- 🌐 **Live demo:** https://highlevel-sales-pipeline.vercel.app (no install needed; the fake API runs inside the browser)
 - 📄 **Write-up:** [WRITEUP.md](./WRITEUP.md)
-- 🎥 **Walkthrough video:** _add link_
+- 🎥 **Walkthrough video:** https://www.loom.com/share/f935f5a587164b609271900b53be97bc
 
 ## Try it in 2 minutes
 
